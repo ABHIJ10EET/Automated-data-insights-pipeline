@@ -51,3 +51,4 @@
    - Imports the Supabase data into a smart spreadsheet  
    - Uses AI formulas to summarize, visualize, and interpret results
 
+App key for open exhange rate -> 2b948b4fea284727b54d90c64e10b418
